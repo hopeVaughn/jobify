@@ -1,4 +1,4 @@
-# Jbify
+# Jobify
 
 ## Purpose
 
