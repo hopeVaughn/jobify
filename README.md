@@ -11,7 +11,7 @@ This full stack React project allows user to sign up/sign in, add/edit/delete jo
 !["dashboard"](https://github.com/hopeVaughn/jobify/blob/main/jobify_03.png)
 !["add job"](https://github.com/hopeVaughn/jobify/blob/main/jobify_04.png)
 !["mobile nav screen"](https://github.com/hopeVaughn/jobify/blob/main/jobify_05.png)
-!["mobile authentication"](https://github.com/hopeVaughn/jobify/blob/main/jobify_06.png)
+!["mobile edit profile"](https://github.com/hopeVaughn/jobify/blob/main/jobify_06.png)
 
 ## Getting Started
 
